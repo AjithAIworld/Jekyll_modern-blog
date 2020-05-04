@@ -2,6 +2,6 @@
 title: AI World !!
 description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
-author: Wferr
-baseurl: "https://ajithaiworld.github.io/ai-world/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+author: Ajith
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://ajithaiworld.github.io/ai-world/" # the base hostname & protocol for your site
